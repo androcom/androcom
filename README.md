@@ -18,7 +18,7 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=androcom&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androcom&layout=compact&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
+![GitHub Stats](https://github-stats-androcom.vercel.app/api?username=androcom&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-stats-androcom.vercel.app/api/top-langs/?username=androcom&layout=compact&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
 
 </div>
