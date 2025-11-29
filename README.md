@@ -5,6 +5,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/)
 
 <br>
