@@ -21,5 +21,6 @@
 
 ![GitHub Stats](https://github-stats-androcom.vercel.app/api?username=androcom&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
 ![Top Langs](https://github-stats-androcom.vercel.app/api/top-langs/?username=androcom&layout=compact&bg_color=180,323232,000000&title_color=ffffff&text_color=ffffff)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudfhr)(https://solved.ac/rlarudfhr/)
 
 </div>
